@@ -1,0 +1,15 @@
+{
+    "name": "maityarkodeb.neon-highway",
+    "title": "Neon Highway",
+    "description": "A neon theme for Brackets",
+    "homepage": "https://github.com/maityarkodeb/neon-highway",
+    "version": "1.0.0",
+    "author": "Arkodeb Maity <maityarkodeb@gmail.com>",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme", "dark", "neon", "highway"]
+}
